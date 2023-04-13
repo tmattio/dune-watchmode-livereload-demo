@@ -5,7 +5,7 @@ executables, with a simple web server providing live reload functionality. This
 allows you to work on your web application, making changes and seeing the
 updates in your browser without leaving your editor.
 
-![Demo Video](./demo.mov)
+![Demo Video](https://github.com/tmattio/dune-watchmode-livereload-demo/raw/main/demo.mov)
 
 ## Get Started
 
